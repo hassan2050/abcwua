@@ -1,0 +1,15 @@
+.autosave*
+*egg-info*
+.backup*
+*~
+*.plt
+*.svg
+*.dxf
+*.pyc
+*.pwj
+*.ud
+build/
+dist/
+inkex/*.inx
+boxes.py.egg-info/
+.idea
